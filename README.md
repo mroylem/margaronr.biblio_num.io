@@ -1,0 +1,1 @@
+Ce dépôt est dédié à la validation du séminaire Bibliothèque numérique I 
