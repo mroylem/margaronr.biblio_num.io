@@ -43,6 +43,7 @@ Les commentaires sur la transcription sont consultables [ICI](https://github.com
 ## Equipe
 
 **Étudiant** [Romain Margaron](https://ch.linkedin.com/in/romain-margaron-1412b6140)
+
 **Master** [Patrimoine régional et Humanités numériques](https://www.unine.ch/formation/patrimoine-regional-et-humanites-numeriques)
 [Université de Neuchâtel](https://www.unine.ch/)
 
