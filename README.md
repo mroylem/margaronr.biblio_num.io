@@ -1,6 +1,6 @@
 # Transcription d'un manuscrit avec eScriptorium
 
-[](https://github.com/mroylem/margaronr.github.io/blob/main/images_compl%C3%A8tes/Photo%20du%20cahier%20ferm%C3%A9.pdf)
+[](https://github.com/mroylem/margaronr.github.io/blob/main/images_compl%C3%A8tes/Cahier%20ferm%C3%A9.jpg)
 
 ## Introduction
 
