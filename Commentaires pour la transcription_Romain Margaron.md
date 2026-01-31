@@ -1,8 +1,3 @@
----
-layout: default
-title: Commentaires de transcription
----
-
 # Transcription du Procès-Verbal de la Commission Bel-Air - 1907-1916
 
 La transcription a été réalisée par Romain Margaron, étudiant en Master Humanités numériques et Patrimoine régional de _l'Université de Neuchâtel_, dans le cadre du cours de Monsieur Simon Gabay, Bibliothèque numérique I donné à _l'Université de Genève_.
