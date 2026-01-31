@@ -6,7 +6,7 @@ Le document s'intitule : _Procès - Verbal de la commission Bel-Air - Commencé 
 
 Nous avons transcris des pages 183 à 193.
 
-**Étudiant ** [Romain Margaron](https://ch.linkedin.com/in/romain-margaron-1412b6140)
+**Étudiant** [Romain Margaron](https://ch.linkedin.com/in/romain-margaron-1412b6140)
 Master [Patrimoine régional et Humanité numérique](https://www.unine.ch/formation/patrimoine-regional-et-humanites-numeriques)
 [Université de Neuchâtel](https://www.unine.ch/)
 
