@@ -40,7 +40,7 @@ Les images d'orgine du manuscrit se trouvent [ICI](https://github.com/mroylem/ma
 
 Pour les transcriptions, le dossier est accessible [ICI](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions). 
 
-Nous avons extrait les pages aux trois formats possibles depuis eScriptorium : [XML](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_XML); [TXT](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_TXT) ; [ALTO](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_ALTO).
+Nous avons extrait les pages aux trois formats possibles depuis eScriptorium : [XML](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_XML) ; [TXT](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_TXT) ; [ALTO](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_ALTO).
 
 Les commentaires sur la transcription sont consultables [ICI](https://github.com/mroylem/margaronr.github.io/blob/main/Commentaires%20pour%20la%20transcription_Romain%20Margaron.md)
 
