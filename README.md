@@ -2,7 +2,7 @@ Ce dépôt est dédié à la validation du séminaire [Bibliothèques numérique
 
 Pour ce projet nous avons utilisé [**eScriptorium**](https://fondue.unige.ch/) pour transcrire 12 pages d'un cahier manuscrit qui en compte 250 environ.
 
-Le document choisi s'intitule : _Procès - Verbal de la commission Bel-Air - Commencé le 9 juillet 1907. Terminé le 9 mai 1916._
+Le document choisi s'intitule : <i>Procès - Verbal de la commission Bel-Air - Commencé le 9 juillet 1907. Terminé le 9 mai 1916.</i>
 
 Et nous avons transcrit les pages 183 à 194.
 
