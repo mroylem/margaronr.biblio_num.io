@@ -1,6 +1,6 @@
 # Transcription d'un manuscrit avec eScriptorium
 
-![eScriptorium](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_escriptorium.png/250px-Logo_escriptorium.png)
+![Acceuil eScriptorium](https://upload.wikimedia.org/wikipedia/commons/0/03/EScriptorium_v0.13.8_start_page_%28detail%29.png)
 
 ## Introduction
 
@@ -43,7 +43,7 @@ Nous avons extrait les pages aux trois formats possibles depuis eScriptorium : [
 
 Les commentaires sur la transcription sont consultables [ICI](https://github.com/mroylem/margaronr.github.io/blob/main/Commentaires%20pour%20la%20transcription_Romain%20Margaron.md)
 
-
+![eScriptorium](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_escriptorium.png/250px-Logo_escriptorium.png)
 
 ## Equipe
 
